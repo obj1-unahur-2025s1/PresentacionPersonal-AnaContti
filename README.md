@@ -18,4 +18,4 @@ Me gusta ver películas y, de vez en cuando, algún anime. Además, tengo una pe
 - Este es mi primer contacto con github
 - Tengo un gato que se llama Fortunato, y una perra que se llama Osita.
 - Me gusta los videojuegos, mis juegos fav son Mortal Kombat y the last of us.
-- Me gusta The Strokes, y el rock nacional.
+- Me gusta "The Strokes", y el rock nacional.
